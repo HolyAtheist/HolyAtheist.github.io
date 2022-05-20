@@ -1,0 +1,10 @@
+</div>			
+									<div class="row"> 
+										<div class="page_descr">
+											<p>The City of Things</p>
+										</div>							
+										<div class="col-sm-12 module_cont pb80 animate" data-anim-type="fadeInUp" data-anim-delay="300">
+											<div class="youtube-container">
+											<div class="youtube-player" data-id="174BXrLEx7c" data-maxres="maxres"></div>
+										</div>
+									</div>
