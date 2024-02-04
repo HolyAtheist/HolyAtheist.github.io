@@ -6238,6 +6238,14 @@ ol.commentlist li .commentava img {
 	padding:0 !important;
 }
 
+.blogg iframe {
+    display: block;       /* iframes are inline by default */
+    background: #000;
+    border: none;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 100vw;
+}
+
 /* PORTFOLIO */
 /* Isotope Sorting */
 /**** Isotope Filtering ****/
