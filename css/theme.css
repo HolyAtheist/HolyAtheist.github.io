@@ -6243,7 +6243,10 @@ ol.commentlist li .commentava img {
     background: #000;
     border: none;         /* Reset default border */
     height: 100vh;        /* Viewport-relative units */
-    width: 100vw;
+   /* width: 100vw;*/
+	line-height: 0;
+	margin: 0;
+    padding: 0;
 }
 
 /* PORTFOLIO */
